@@ -1,6 +1,6 @@
 
 
-public class Main {
+public class DecimalComparator {
 
     public static void main(String[] args) {
         System.out.println(areEqualByThreeDecimalPlaces(3.0, 3.0)); // should say true
