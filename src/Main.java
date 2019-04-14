@@ -3,7 +3,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(areEqualByThreeDecimalPlaces(3.0, 3.0));
+        System.out.println(areEqualByThreeDecimalPlaces(3.0, 3.0)); // should say true
 
     }
 
